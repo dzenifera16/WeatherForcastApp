@@ -13,7 +13,7 @@ git clone https://github.com/dzenifera16/WeatherForcastApp.git
 2. Pāriet uz projekta direktoriju:
 
 ```shell
-cd WeatherApp
+cd WeatherForcastApp
 ```
 
 3. Instalējiet nepieciešamās atkarības, izmantojot npm:
